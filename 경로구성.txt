@@ -1,6 +1,3 @@
-# KICAD RATEL Library
-
-## Getting Started
 
 [경로구성]
 KICAD_USER_LIB
@@ -15,9 +12,8 @@ RATEL_PCB_LIB
   > ${KICAD_USER_LIB}/RATEL_PCB_LIB.pretty
 
 [Plugin]
-  > AISLER Push for Kicad
-  > KiBuzzard
-  > KiKit Library
-  > Board2Pdf
-  > Interactive Html Bom
-  
+AISLER Push for Kicad
+KiBuzzard
+KiKit Library
+Board2Pdf
+Interactive Html Bom
