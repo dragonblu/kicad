@@ -1,3 +1,2 @@
-* linguist-vendored
 *.kicad_mod linguist-vendored=false
 *.stp linguist-vendored=false
