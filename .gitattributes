@@ -1,5 +1,0 @@
-*.kicad_mod linguist-vendored=false
-*.stp linguist-vendored=false
-
-RATEL_PCB_LIB.pretty/** linguist-vendored=false
-kicad-packages3D/** linguist-vendored=false
