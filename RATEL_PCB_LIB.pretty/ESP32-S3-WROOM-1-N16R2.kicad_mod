@@ -84,6 +84,20 @@
   (pad "47" smd rect (at -0.1 3.86 90) (size 0.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8d9fe9fc-58b5-4e6b-b495-d74858adddbc))
   (pad "48" smd rect (at -0.1 2.46 90) (size 0.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aa3961e8-d808-437c-9b74-c2d5ab84330c))
   (pad "49" smd rect (at -0.1 1.06 90) (size 0.9 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 50fbdb71-057c-45e4-a17c-39128725df7c))
+  (zone (net 0) (net_name "") (layers *.Cu) (tstamp 3ef701dc-bec3-42b4-8460-7a5c0d446f2c) (hatch full 0.508)
+    (connect_pads (clearance 0))
+    (min_thickness 0.254)
+    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed) (copperpour not_allowed) (footprints not_allowed))
+    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy -10.5 -13.75)
+        (xy 10.5 -13.75)
+        (xy 10.5 -7.75)
+        (xy -10.5 -7.75)
+      )
+    )
+  )
   (model "${KICAD_USER_LIB}/kicad-packages3D/ESP32/ESP32-S3-WROOM-1-N16R2.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

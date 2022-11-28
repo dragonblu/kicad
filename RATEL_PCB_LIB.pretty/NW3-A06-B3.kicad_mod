@@ -17,6 +17,7 @@
   (fp_line (start 3.1 -1.9) (end 3.1 -0.6) (layer "F.SilkS") (width 0.12) (tstamp 90c46c44-22ef-4ae1-8296-12ebb9d9d77d))
   (fp_line (start -3.1 1.9) (end 3.1 1.9) (layer "F.SilkS") (width 0.12) (tstamp b531e927-f6aa-4721-a6a2-7a229e654cc5))
   (fp_line (start -3.1 0.6) (end -3.1 1.9) (layer "F.SilkS") (width 0.12) (tstamp e53005ea-39f6-44b2-a701-bc73423ed25b))
+  (fp_rect (start -5 -2) (end 5 2) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 6be09e3c-263a-4fc2-a7e3-9ca9f0760e3c))
   (pad "1" smd rect (at -3.875 0) (size 1.75 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fdf0ea71-50d5-474e-b79f-5cc60a1ce89e))
   (pad "2" smd rect (at 3.875 0) (size 1.75 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cdd35bfa-9bd3-4586-8de8-64eec4b6e5de))
   (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_CK_RS282G05A3.step"
