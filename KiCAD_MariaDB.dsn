@@ -1,0 +1,7 @@
+[ODBC]
+DRIVER=MariaDB ODBC 3.1 Driver
+UID=root
+PORT=31050
+DATABASE=kicad
+SERVER=svc.gksl2.cloudtype.app
+TCPIP=1
