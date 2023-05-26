@@ -1,4 +1,4 @@
-$conn = New-Object System.Data.Odbc.OdbcConnection("dsn=KiCAD_SQLite3")
+$conn = New-Object System.Data.Odbc.OdbcConnection("dsn=KiCAD_SQLite")
 $conn.Open()
 $cmd = $conn.CreateCommand()
 $cmd.CommandText = "SELECT * FROM Resistors"
