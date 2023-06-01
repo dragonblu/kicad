@@ -53,9 +53,9 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp be55d6ee-b33b-49e8-80b8-bb852f1711a5))
   (fp_line (start 7.45 0.8) (end 7.45 -3.1)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 6f6663d8-cf98-4812-81ea-fef79a35b716))
-  (pad "1" thru_hole roundrect (at 0 0) (size 1.7 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.147059) (tstamp 81c7a074-1ac2-4642-92cc-ba82c9edb144))
+  (pad "1" thru_hole roundrect (at 0 0) (size 1.7 1.85) (drill 0.9) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.147059) (tstamp 81c7a074-1ac2-4642-92cc-ba82c9edb144))
   (pad "2" thru_hole oval (at 2.5 0) (size 1.7 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 4fcd7f9b-e3c1-4c65-a810-fbe2fb3662ef))
-  (pad "3" thru_hole oval (at 5 0) (size 1.7 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 7d43721a-1f90-4a73-a561-3408ca3cb5ac))
+  (pad "3" thru_hole oval (at 5 0) (size 1.7 1.85) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp 7d43721a-1f90-4a73-a561-3408ca3cb5ac))
   (model "${KICAD_USER_LIB}/kicad-packages3D/Connector_Molex/Molex_SPOX_5267-03A_1x03_P2.50mm_Vertical.stp"
     (offset (xyz 0 0 9.4))
     (scale (xyz 1 1 1))

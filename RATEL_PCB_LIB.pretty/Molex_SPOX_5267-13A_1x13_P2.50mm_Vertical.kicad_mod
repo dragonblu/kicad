@@ -53,7 +53,7 @@
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp b9395c79-715b-4f95-bafa-b7a7ddcfa366))
   (fp_line (start 32.45 0.8) (end 32.45 -3.1)
     (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 8e815a2b-198c-4fe3-ad43-77bb7b329a1b))
-  (pad "1" thru_hole roundrect (at 0 0) (size 1.7 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.147059) (tstamp d6783b9b-1c12-4669-b6ce-1c788537c6ec))
+  (pad "1" thru_hole roundrect (at 0 0) (size 1.7 1.85) (drill 0.9) (layers "*.Cu" "*.Mask") (roundrect_rratio 0.147059) (tstamp d6783b9b-1c12-4669-b6ce-1c788537c6ec))
   (pad "2" thru_hole oval (at 2.5 0) (size 1.7 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp fab09661-4ab2-4136-812c-0201fb633d96))
   (pad "3" thru_hole oval (at 5 0) (size 1.7 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 9866a685-32c6-4fe5-9e5d-8fa6ca9e0be7))
   (pad "4" thru_hole oval (at 7.5 0) (size 1.7 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 97da2f97-120b-4f2e-9bf3-6e07a66c1227))
@@ -65,7 +65,7 @@
   (pad "10" thru_hole oval (at 22.5 0) (size 1.7 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp b7f4c4a7-9e88-4222-9c11-278b72d185ad))
   (pad "11" thru_hole oval (at 25 0) (size 1.7 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 05481d7c-12d0-45da-86d3-d25b48779809))
   (pad "12" thru_hole oval (at 27.5 0) (size 1.7 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp 26c152d6-8ea7-4bea-8f75-c3be1ddd65d1))
-  (pad "13" thru_hole oval (at 30 0) (size 1.7 1.85) (drill 0.85) (layers "*.Cu" "*.Mask") (tstamp dcc90572-8d9d-4174-984e-25c371d03247))
+  (pad "13" thru_hole oval (at 30 0) (size 1.7 1.85) (drill 0.9) (layers "*.Cu" "*.Mask") (tstamp dcc90572-8d9d-4174-984e-25c371d03247))
   (model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_SPOX_5267-13A_1x13_P2.50mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
